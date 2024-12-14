@@ -1,0 +1,40 @@
+{
+  "name": "Samplasion's Source",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://avatars.githubusercontent.com/u/20841500",
+  "tintColor": "#C44040",
+  "featuredApps": [
+    "org.js.samplasion.gymtracker"
+  ],
+  "apps": [
+    {
+      "name": "GymTracker",
+      "bundleIdentifier": "org.js.samplasion.gymtracker",
+      "developerName": "Francesco Arieti",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://github.com/Samplasion/gymtracker/blob/3a5e93cbe4fc7150fb9c58309a5e24b25cd589a3/ios/Runner/Assets.xcassets/AppIcon.appiconset/120%201.png?raw=true",
+      "tintColor": "#0D47A1",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "0.10.0",
+          "date": "2024-12-14T18:34:00+01:00",
+          "size": 32025615,
+          "downloadURL": "https://github.com/Samplasion/gymtracker/releases/download/v0.10.0/GymTracker-ios-0.10.0+1734200556-release.ipa",
+          "localizedDescription": "Initial public release.",
+          "minOSVersion": "12.0"
+        },
+      ],
+      "appPermissions": {
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "We access your photos to let you scan barcodes for product identification.",
+          "NSCameraUsageDescription": "We use the camera to enable you to scan barcodes for product identification.",
+          "NSMicrophoneUsageDescription": "We use the camera to enable you to scan barcodes for product identification."
+        }
+      }
+    }
+  ],
+  "news": [],
+}
