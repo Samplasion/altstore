@@ -9,12 +9,12 @@
   ],
   "apps": [
     {
-      "name": "GymTracker",
+      "name": "Gym Bro",
       "bundleIdentifier": "org.js.samplasion.gymtracker",
       "developerName": "Francesco Arieti",
-      "subtitle": "Free workout tracker.",
+      "subtitle": "Your workout buddy.",
       "localizedDescription": "A free and open source workout and body measurement tracker and food diary with online functionality.",
-      "iconURL": "https://github.com/Samplasion/gymtracker/blob/3a5e93cbe4fc7150fb9c58309a5e24b25cd589a3/ios/Runner/Assets.xcassets/AppIcon.appiconset/120%201.png?raw=true",
+      "iconURL": "https://github.com/Samplasion/gymtracker/blob/adc2ee5ef862ccc2d03d7c96494db090dbd5998e/ios/Runner/Assets.xcassets/AppIcon.appiconset/appstore1024.png?raw=true",
       "tintColor": "#0D47A1",
       "screenshots": [],
       "category": "lifestyle",
