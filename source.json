@@ -20,13 +20,21 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "0.10.2",
+          "date": "2025-01-18T18:48:05+01:00",
+          "size": 32011174,
+          "downloadURL": "https://github.com/Samplasion/gymtracker/releases/download/v0.10.2/GymTracker-ios-0.10.2+1737222485-release.ipa",
+          "localizedDescription": "- Added rate of exertion\n- Improve weight calculator",
+          "minOSVersion": "12.0"
+        },
+        {
           "version": "0.10.0",
           "date": "2024-12-14T18:34:00+01:00",
           "size": 32025615,
           "downloadURL": "https://github.com/Samplasion/gymtracker/releases/download/v0.10.0/GymTracker-ios-0.10.0+1734200556-release.ipa",
           "localizedDescription": "Initial public release.",
           "minOSVersion": "12.0"
-        },
+        }
       ],
       "appPermissions": {
         "privacy": {
